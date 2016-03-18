@@ -5,7 +5,10 @@
   "homepage": "https://github.com/dan5000/DatePicker",
   "main": ["./dist/bzm-date-picker.min.js","./dist/bzm-date-picker.css"],
   "keywords": [
-    "datepicker"
+    "datepicker",
+    "angular-foundation-datepicker",
+    "angular",
+    "foundation"
   ],
   "dependencies": {
     "angular": ">=1.2.0",
