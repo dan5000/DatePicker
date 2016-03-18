@@ -3,7 +3,11 @@
   "author": "dan5000",
   "description": "DatePicker for Angular & Foundation",
   "homepage": "https://github.com/dan5000/DatePicker",
-  "main": "",
+  "main": "./dist/bzm-date-picker.min.js",
+  "dependencies": {
+    "angular": ">=1.2.0 <1.5.0",
+    "foundation": ">=5.5"
+  },
   "ignore": [],
   "repository": {
     "type": "git",
