@@ -1,0 +1,14 @@
+{
+  "name": "angular-foundation-datepicker",
+  "author": "dan5000",
+  "description": "DatePicker for Angular & Foundation",
+  "homepage": "https://github.com/dan5000/DatePicker",
+  "main": "",
+  "ignore": [],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dan5000/DatePicker.git"
+  },
+  "version": "0.0.1",
+  "_originalSource": "https://github.com/fulup-bzh/DatePicker"
+}
