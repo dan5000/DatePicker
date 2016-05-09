@@ -435,8 +435,8 @@ function bzmDatePicker ($log, $document, $filter) {
         scope.place = function(){
 
             scope.picker.css({
-                top:    element[0].offsetTop,
-                left:   element[0].offsetLeft,
+                top:    element[0].offsetTop  + 'px',
+                left:   element[0].offsetLeft + 'px',
                 zIndex: 100,
                 display: "block"
             });
